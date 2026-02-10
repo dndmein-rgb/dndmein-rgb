@@ -12,7 +12,7 @@ I care less about buzzwords and more about systems that don’t break under pres
 🔭 Building full-stack projects from scratch, end to end  
 👯 Open to collaborating on MERN stack and backend-heavy projects  
 🤝 Actively improving system design and backend fundamentals  
-🌱 Building projects with Next.js and modern web architectures” 
+🌱 Building projects with Next.js and modern web architectures”  
 💬 Ask me about MERN stack, REST APIs, authentication, or project structuring  
 ⚡ Fun fact: I enjoy reducing complex problems into boring, reliable solutions
 
